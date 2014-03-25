@@ -2,15 +2,15 @@
 
 You can find WolfCMS [here](https://wolfcms.org)
 
-A bit dirty, so no warranties.
-
 Tested with WolfCMS 0.7.5
+
+
 
 ## Installation
 
     cd into your wolf root
     cd wolf/plugins
-    git clone git@github.com:MrZYX/wolf_first_child.git first_child
+    git clone git@github.com:inthemill/wolf_first_child.git first_child
 
 
 * Go to your admin panel.
